@@ -68,7 +68,7 @@ A E-commerce website built with React, TypeScript, and Tailwind CSS featuring a 
 
 ## Design & Development
 
-Designed and Developed by SMD.exe
+Designed and Developed by Smdspace-dev
 
 ## License
 
