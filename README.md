@@ -68,8 +68,13 @@ A E-commerce website built with React, TypeScript, and Tailwind CSS featuring a 
 
 ## Design & Development
 
-Designed and Developed by Smdspace-dev
+Designed and Developed by Thousifibrahim
 
-## License
 
-MIT License
+## 🤝 Let's Connect
+
+[<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">](https://github.com/Thousifibrahim)
+[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">](mailto:contact.thousif+github@gmail.com)
+[<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">](https://www.linkedin.com/in/thousif-ibrahim-29050421b)
+
+**Thousif Ibrahim** | Developer | Open to Opportunities
