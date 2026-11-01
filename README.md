@@ -1,5 +1,7 @@
 # MX-Trends
 
+![stack: TypeScript](https://img.shields.io/badge/stack-TypeScript-3178C6) ![stack: CSS](https://img.shields.io/badge/stack-CSS-1572B6) ![stack: HTML](https://img.shields.io/badge/stack-HTML-E34F26) ![stack: JavaScript](https://img.shields.io/badge/stack-JavaScript-F7DF1E) ![platform: Web](https://img.shields.io/badge/platform-Web-6f42c1)
+
 Web Application On trying Cloths Virtually .
 
 ## Overview
